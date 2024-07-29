@@ -22,11 +22,4 @@ return {
       },
     },
   },
-  config = {
-    filesystem = {
-      follow_current_file = {
-        enabled = true,
-      },
-    },
-  },
 }
