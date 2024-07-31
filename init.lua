@@ -611,6 +611,7 @@ require('lazy').setup({
         tsserver = {},
         astro = {},
         jsonls = {},
+        tailwindcss = {},
         lua_ls = {
           -- cmd = {...},
           -- filetypes = { ...},
